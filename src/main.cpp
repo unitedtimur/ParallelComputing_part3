@@ -11,7 +11,7 @@
 int main()
 {
     FileThreadManager fileThreadManager;
-    const auto files = fileThreadManager.getFileNames("/home/unitedtimur/education/projects_c++/SecondLab");
+    const auto files = fileThreadManager.getFileNames("/home/unitedtimur/education/projects_c++/TEST_ALARM");
 
     Manager manager;
 
